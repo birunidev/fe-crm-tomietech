@@ -26,6 +26,7 @@ export const ActivityLogCard = ({ onSave }: {
                 <Button className="bg-slate-50 text-teal-600 min-w-[100px] hover:bg-slate-100">
                     Edit
                 </Button>
-            </div></>
+            </div>
+        </>
     )
 }
